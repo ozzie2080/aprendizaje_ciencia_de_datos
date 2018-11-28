@@ -3,6 +3,8 @@
 
 Este repositorio representa mi jornada en el aprendizaje de Machine Learning y Ciencia de Datos. Mi intencion es cubrir temas asociados con:
 * Edicion de codigo
+  * Como utilizar JupyterLab
+  * Como utilizar Colab (Google)
 * Python como lenguaje de programacion
 * Machine Learning
 * etc ..
