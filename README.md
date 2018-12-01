@@ -6,6 +6,8 @@ Este repositorio representa mi jornada en el aprendizaje de Machine Learning y C
 * Edicion de codigo
   * Como utilizar JupyterLab
   * Como utilizar [Colab (Google) Editor con GitHub](https://github.com/ozzie2080/aprendizaje_ciencia_de_datos/blob/master/HowToColabGithub.ipynb)
+* TensorFlow  
+  * [Primeros Pasos utilizando TensorFlow](https://github.com/ozzie2080/aprendizaje_ciencia_de_datos/tree/master/TensorFlow)
 * Python como lenguaje de programacion
 * Machine Learning
 * etc ..
